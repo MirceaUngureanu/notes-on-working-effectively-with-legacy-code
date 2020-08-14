@@ -38,3 +38,5 @@ The enabling point - every seam has one and it's a place where we can make the d
 method/object(seam), argument list (enabling point)
 
 In general, in OOP, object seams are the best choice
+
+Refactoring is a change made to the internal structure of software to make it easier to understand and cheaper to modify without changing its existing behaviour.
