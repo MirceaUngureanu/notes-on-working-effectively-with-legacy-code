@@ -1,4 +1,4 @@
-### 📚 A collection of notes from reading "Working Effectively with Legacy Code" by Michael Feathers
+### 📚 "Working Effectively with Legacy Code" by Michael Feathers
 
 ---
 
@@ -12,7 +12,7 @@ Avoiding change ultimately leads to fear and doubt in our ability. To counter th
 
 #### Working with feedback
 Changes in a system can be made in two primary ways:
-- Edit and Pray (industry standard)
+- Edit and Pray
 - Cover and Modify
 
 Qualities of good unit tests:
